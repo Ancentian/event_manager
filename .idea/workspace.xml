@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="339be13a-f505-41e5-b8b1-62c7d222ce53" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/usermanagement.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../database/migrations/2019_09_26_160409_create_user_settings_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../database/migrations/2019_09_26_160410_create_password_resets.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital-system/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital-system/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital-system/application/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital-system/application/config/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital-system/application/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital-system/application/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital-system/application/config/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital-system/application/config/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital-system/application/controllers/admin/Appointment.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital-system/application/controllers/admin/Appointment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital-system/application/controllers/admin/Patient.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital-system/application/controllers/admin/Patient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital-system/application/controllers/admin/Pharmacy.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital-system/application/controllers/admin/Pharmacy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital-system/application/logs/log-2020-08-07.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital-system/application/logs/log-2020-08-07.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital-system/application/models/Appointment_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital-system/application/models/Appointment_model.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital-system/application/models/Pharmacy_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital-system/application/models/Pharmacy_model.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital-system/application/views/admin/appointment/search.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital-system/application/views/admin/appointment/search.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital-system/application/views/admin/incomingpatients/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital-system/application/views/admin/incomingpatients/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital-system/application/views/admin/patient/search.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital-system/application/views/admin/patient/search.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital-system/application/views/admin/pharmacy/search.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital-system/application/views/admin/pharmacy/search.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital-system/application/views/layout/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital-system/application/views/layout/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/.idea/CommunityConnect.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/.styleci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/app/Http/Middleware/CheckForMaintenanceMode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/app/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/config/communityconnect.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/config/cors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/config/usermanagement.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/database/seeds/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/public/CommunityConnect/extra/Js/mapInput.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/public/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/resources/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mike/CommunityConnect/webpack.mix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/views/aside-profile.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/views/auth/login.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/views/auth/passwords/email.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/views/auth/passwords/reset.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/views/auth/register.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/views/emails/resetPassword.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/views/extra/auth.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/views/extra/settingSave.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/views/layout/layout.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Facades/UserManagement.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Http/Controllers/AuthController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Http/Controllers/BaseController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Http/Controllers/JwtCreateController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Http/Controllers/UserManagementController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Http/Middleware/JwtValidate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Http/routes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Mail/ResetPassword.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Models/AbstractModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Models/UserRegistrationModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Models/UserSetting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Models/UsersLoginModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/UserManagement.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/UserManagementServiceProvider.php" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1kcBFmUq7ywt3gizDYyg9rbFGZL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/views/printfiles" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\fsi\f-tiba_lite\app\views\printfiles" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="339be13a-f505-41e5-b8b1-62c7d222ce53" name="Default Changelist" comment="" />
+      <created>1605989914515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605989914515</updated>
+      <workItem from="1605989936678" duration="711000" />
+      <workItem from="1606015650041" duration="13280000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
